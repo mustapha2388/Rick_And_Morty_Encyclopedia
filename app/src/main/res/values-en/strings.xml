@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Rick_And_Morty_Encyclopedia</string>
     <string name="title_toolbar">Rick_Morty_Encyclopedia</string>
-    <string name="characters">Personnages</string>
-    <string name="planets">Planètes</string>
-    <string name="episodes">Épisodes</string>
+    <string name="characters">Characters</string>
+    <string name="planets">Planets</string>
+    <string name="episodes">Episodes</string>
 </resources>

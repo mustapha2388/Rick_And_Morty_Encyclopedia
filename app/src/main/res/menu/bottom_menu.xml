@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/characterViewFragment"
+        android:title="@string/characters"
+        android:icon="@drawable/ic_characters" />
+    <item
+        android:id="@+id/planetViewFragment"
+        android:title="@string/planets"
+        android:icon="@drawable/ic_planet" />
+    <item
+        android:id="@+id/episodeViewFragment"
+        android:title="@string/episodes"
+        android:icon="@drawable/ic_history" />
+</menu>
