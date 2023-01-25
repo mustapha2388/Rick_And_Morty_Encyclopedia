@@ -8,4 +8,5 @@
     android:layout_height="wrap_content"
     android:minHeight="?attr/actionBarSize"
     android:theme="@style/ToolbarTextTheme"
+    app:popupTheme="@style/ThemeOverlay.myPopupTheme"
     app:title="@string/title_toolbar" />

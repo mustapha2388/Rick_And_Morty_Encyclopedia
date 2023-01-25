@@ -23,10 +23,21 @@
         <item name="android:textColorPrimary">@color/white</item>
     </style>
 
+    <style name="ThemeOverlay.myPopupTheme" parent="Theme.AppCompat.DayNight">
+        <!--TODO PUT ICON FOR MENU -->
+        <!-- SUBMENU -->
+        <!--        <item name="android:tint">@color/purple_dark</item>-->
+        <!--        <item name="android:backgroundTint">@color/green</item>-->
+        <item name="android:textColor">@color/white</item>
+        <item name="android:colorBackground">@color/green</item>
+    </style>
+
+
     <style name="BottomNavigationView" parent="@style/Widget.Design.BottomNavigationView">
         <item name="android:background">@color/green</item>
         <item name="itemIconTint">@color/bnv_tab_item_foreground</item>
         <item name="itemTextColor">@color/bnv_tab_item_foreground</item>
         <item name="itemIconSize">@dimen/itemIconSize</item>
     </style>
+
 </resources>
